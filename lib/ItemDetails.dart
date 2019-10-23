@@ -75,7 +75,7 @@ class ItemDetail extends StatelessWidget {
             Center(
               child: Container(
                 width: MediaQuery.of(context).size.width - 50.0,
-                child: Text('Cold, creamy ice cream sandwiched between delicious deluxe cookies. Pick your favorite deluxe cookies and ice cream flavor.',
+                child: Text('Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         fontFamily: 'Varela',
